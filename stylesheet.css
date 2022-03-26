@@ -1,0 +1,49 @@
+    body {
+        background-color: rgba(48, 194, 238, 0.89);        
+        }
+
+        h1 {
+            text-align: center;
+            border-bottom-width: 1px;
+            border-bottom-style: dashed;
+            border-bottom-color: rgb(36, 34, 34);
+        }
+
+        img {
+            border-radius: 50%;
+            width: 30%;
+            height: 70%;
+            border-style: solid;
+            border-color:black;
+            display: block;
+            margin-left: 25%;
+            margin-right: 25%;
+        }
+        
+        div {
+
+        }
+        #header{
+                background-color:blueviolet;
+                border-radius: 50%;
+                width: 70%;
+                height: 100%;
+                text-align: center;
+                
+        }
+            <div id="list">
+        #list{
+            border-width: 1px;
+            border-style: solid;
+            border-color: black;
+            padding: 15px;
+            margin-left; 30%;
+        }
+
+           #footer{
+               background-color: blueviolet;
+               border-radius: 50%;
+               width: 70%;
+               height: 100%;
+               text-align: center;
+           }
